@@ -1,4 +1,4 @@
-# Estudo_Scrum
+# Estudos de Scrum
 Estudos do curso Complete Agile Scrum Master Certification Training da Omni Academy
 
 Scrum é uma estrutura de gerenciamento ágil de projetos que ajuda as equipes a elaborarem e gerenciarem o trabalho delas por meio de um conjunto de valores, princípios e práticas
