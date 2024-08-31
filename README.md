@@ -19,3 +19,6 @@ Existem duas certificações bem aceitados: Certidied Scrum Master da Scrum Alli
 
 <img src="https://github.com/user-attachments/assets/9eedc967-f251-4a8b-a658-1b38870ecc5f">
 
+Certos termos são diferentes dependendo da sua fonte de informações, mas como para o curso o foco é passar no PSM I, então outras fontes são ignoradas e temos foco no material Scrum.org's:
+- [Scrum Terms Glossary](https://www.scrum.org/resources/scrum-glossary)
+- [Professional Scrum Developer Glossary](https://www.scrum.org/resources/professional-scrum-developer-glossary)
