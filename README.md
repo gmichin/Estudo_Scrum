@@ -14,3 +14,7 @@ No scrum, existem 3 tipos de responsabilidades que juntos formam o time de scrum
 - Scrum Master - quem facilita todo esse trabalho!
 
 <img src="https://github.com/user-attachments/assets/43167d9c-0898-46ce-8899-36455332cc0f">
+
+Existem duas certificações bem aceitados: Certidied Scrum Master da Scrum Alliance e PSM I de scrum.org, e o foco do curso é o segundo, pois é permanente (CSM precisa refazer a cada 2 anos) e custa apenas 200$ (enquanto o outro o custo varia 500$ a 1000$). O teste PSM I pode fazer quando quiser e onde quiser, levando 60 min para 80 questões (45s por pergunta) de multiplas alternativas. Pode-se consultar o livro Scrum Guide (uma documentação que descreve e define as regras do scrum criado pelos criadores do Scrum Ken Schwaber e Jeff Sutherland), mas não há tempo para isso. Para passar precisa acertar 85% das questões, ou seja, 68 questões; e o teste é em inglês.
+
+ 
