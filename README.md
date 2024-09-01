@@ -13,6 +13,8 @@
 
 <img src="https://github.com/user-attachments/assets/91726846-002b-42fa-9772-e8962157e198">
 
+(comentário: apesar de não ser uma metodologia, não significa que não seja ágil, mais sobre o assunto adiante)
+
 ### Quais são seus componentes?
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ele pode ser incluído em qualquer tipo de problema que é dividido em problemas menores que são colocados em um backlog de produto onde os itens do topo da lista tem maior prioridade. O time realiza um sprint planning (planejamento da string) que é selecionar alguns dos itens do topo do backlog para o sprint backlog e envia para a sprint ("coração do scrum"). Uma sprint geralmente é o período de 1 mês que ao final dele um produto incrementado é enviado, um produto que o cliente pode ver se está bom ou não.
 Se esta bom, ok. Mas se não está, no scrum, é adicionado as correções no backlog de produtos, através de um spring review que se trata de inspecionar e adaptar o backlog de produto. E através de um spring retrospective se inspeciona os processos do time para se conseguir entragar maior eficiência. E diariamente, é separado 15 minutos para o time inspecionar e adaptar seu trabalho, dando total foco em atingir o objetivo da spring, isso é chamado de Daily Scrum.  
