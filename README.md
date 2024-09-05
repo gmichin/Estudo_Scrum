@@ -1,4 +1,4 @@
-# Estudos de Scrum
+[Learning+how+to+learn.pdf](https://github.com/user-attachments/files/16900095/Learning%2Bhow%2Bto%2Blearn.pdf)# Estudos de Scrum
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Estudos do curso Complete Agile Scrum Master Certification Training da Omni Academy
 ### O que é Scrum e para que serve?
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Scrum é um mecanismo que otimiza o valor do sistema de entrega, muito usado para impulsionar o trabalho e esforço que fazemos para entregar sistemas complexos(Complex Enviroments) de valor. Complexidade pode ser definido por 2 dimensões: "O que precisa ser feito?" e "Como fazer?", como na tabela abaixo:
@@ -87,6 +87,7 @@ Linha de cima:
 - Expectativa: minimo 0.5 meses (2 semanas) ou 8 meses (32 semanas);
 Linha de baixo: 
 - Initial Estimate: 2 meses (8 semanas);
+
 - Expectativa: minimo 1 mês (4 semanas) ou 4 meses (16 semanas);
 
 VUCA:
@@ -94,3 +95,17 @@ VUCA:
 - Uncertainty (incerteza) - o quanto sabemos sobre a situação
 - Complexity (complexidade) - nível de interconectividade e interdependência de multiplos componentes no sistema, quanto mais regras de negócio e dependências tecnológicas maior a complexidade
 - Ambiguity (ambiguidade) - nível do quanto podemos entender o significado de algo
+
+### Dicas para PSM I:
+- Leia a questão inteira;
+- Elimine respostas erradas;
+- Use processo de eliminação;
+- Analise cada opção com cuidado;
+- Faça um palpite fundamentado;
+- Se pode usar o Scrum Guide, e apesar de não ter tempo para um boa consulta, as vezes, um Ctrl + F pode ajudar;
+Dicas extras:
+[Conceptual+Map.pdf](https://github.com/user-attachments/files/16900084/Conceptual%2BMap.pdf)
+[Cornell+System.pdf](https://github.com/user-attachments/files/16900091/Cornell%2BSystem.pdf)
+[Template+-+Cornell+System.pdf](https://github.com/user-attachments/files/16900088/Template%2B-%2BCornell%2BSystem.pdf)
+[Learning+how+to+learn.pdf](https://github.com/user-attachments/files/16900096/Learning%2Bhow%2Bto%2Blearn.pdf)
+
