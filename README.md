@@ -38,7 +38,42 @@ Se esta bom, ok. Mas se não está, no scrum, é adicionado as correções no ba
 - [Professional Scrum Developer Glossary](https://www.scrum.org/resources/professional-scrum-developer-glossary)
 
 ### Taditional vs Agile
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No modo tradicional é feito um "plano perfeito" com o que será feito, quando e por quanto, e se é seguido tal plano sem muitas adaptações na prática por conta do custo associado e burocrácias (teoricamente sim), aqui, é assumido que a visão inicial está correta, o que geralmente não incluí problemas inesperados, objetivos que se movem ou mesmo erros. Se assumirmos que a visão incial está completamente correta, erraremos o alvo, não chegando na visão correta ou chegando nela muito atrasados de modo que acaba sendo inutil chegar nela, geralmente a visão correta está longe da inicial. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No modo tradicional é feito um "plano perfeito" com o que será feito, quando e por quanto, e se é seguido tal plano sem muitas adaptações na prática por conta do custo associado e burocrácias (teoricamente sim), aqui, é assumido que a visão inicial está correta, o que geralmente não incluí problemas inesperados, objetivos que se movem ou mesmo erros. Se assumirmos que a visão incial está completamente correta, erraremos o alvo, não chegando na visão correta ou chegando nela muito atrasados de modo que acaba sendo inutil chegar nela, geralmente a visão correta está longe da inicial. 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assim vem o Agile (Ágil) que assumimos não saber o alvo, onde o objetivos é chegar perto do que o cliente quer em ciclos pequenos dado o que sabemos e aprendemos com experiência. Nele, sempre é feito ajustes causados pelo time aprender mais sobre as tecnologias usadas, mudanças no mercado ou tecnologias disponíveis atualizando as ferramentas usadas, análises finais (do ciclo) dos clientes e, finalmente, IKIWISI (I Know It When I See It), onde em certos tipos de projetos (especialmente os inovadores) é inútil perguntar aos clientes em potenciais se eles vão gostar do produto ou usá-lo (pois o projeto pode ser tão inovador que não vão ter nem ideia do que fazer ou pode ser muito dificil de explicar o produto para eles), sendo assim, só vão saber se o projeto é viável depois de vê-lo.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; É importante não confundir ágil com rápido, porque rápido pode entregar algo mau feito, enquanto nesse ágil em especifico, apenas bem feito; e não necessáriamente é o mais rápido possivel pois de vez em quando é preciso desacelerar para entregar mais qualidade, mas sempre que possível mais rápido.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;É importante não confundir ágil com rápido, porque rápido pode entregar algo mau feito, enquanto nesse ágil em especifico, apenas bem feito; e não necessáriamente é o mais rápido possivel pois de vez em quando é preciso desacelerar para entregar mais qualidade, mas sempre que possível mais rápido.
+
+### Agile Manifesto
+<img src="https://github.com/user-attachments/assets/89276994-fc2b-41d1-8759-f30bce2813d0">
+
+Mindset (mentalidade):
+&nbsp;- Ver contratempos como oportunidades de aprendizado;
+- Adotar colaborações, mundanças e ciclos de entrega pequenas;
+- Foco no valor de entrega;
+
+Values (valores) - Valorizar mais:
+- Individuos e interações sobre ferramentas e processos;
+- Produto de trabalho sobre documentação abrangente;
+- Colaboração do cliente sobre contrato de negócio;
+- Resposta a mudanças sobre seguir o plano;
+
+Principles (princípios):
+1. Projeto:
+- Satisfazer cliente com o produto trabalhado;
+- Mudanças são sempre bem vindas;
+- Ciclos de entrega pequenas;
+- Ritmo sustentável;
+- Produto trabalhado como a medida de progresso primário;
+2. Produto:
+- Simplicidade;
+- Excelência técnica;
+3. Pessoa:
+- Comunicação cara a cara;
+<img src="https://github.com/user-attachments/assets/5c274d24-2021-4c6a-b3db-6abc2c25b098">
+
+- Cliente como um membro do time;
+- Equipes autogerenciadas;
+- Confiança e suporte;
+4. Processo:
+- Refletir e ajustar;
+<img src="https://github.com/user-attachments/assets/83664ee6-94b4-4a00-9cc4-323442f571ae">
