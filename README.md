@@ -76,4 +76,21 @@ Principles (princípios):
 - Confiança e suporte;
 4. Processo:
 - Refletir e ajustar;
+
+Practices (Prática):
+- Prática de modo literal que incluí Scrum (lembrar do mapa mostrando a implementação de scrum como framework);
+- 
+### Cone da incerteza
 <img src="https://github.com/user-attachments/assets/83664ee6-94b4-4a00-9cc4-323442f571ae">
+Linha de cima: 
+- Initial Estimate: 2 meses (8 semanas);
+- Expectativa: minimo 0.5 meses (2 semanas) ou 8 meses (32 semanas);
+Linha de baixo: 
+- Initial Estimate: 2 meses (8 semanas);
+- Expectativa: minimo 1 mês (4 semanas) ou 4 meses (16 semanas);
+
+VUCA:
+- Volatility (volatilidade) - nível de mudanças no ambiente, quanto mais mudanças maior a volatilidade
+- Uncertainty (incerteza) - o quanto sabemos sobre a situação
+- Complexity (complexidade) - nível de interconectividade e interdependência de multiplos componentes no sistema, quanto mais regras de negócio e dependências tecnológicas maior a complexidade
+- Ambiguity (ambiguidade) - nível do quanto podemos entender o significado de algo
