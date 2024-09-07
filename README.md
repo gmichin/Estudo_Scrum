@@ -156,4 +156,16 @@ Contudo, esses pilares só ganham vida com 5 valores:
 - Respeito;
 - Abertura;
 
-
+### Scrum Team
+1. O Product Owner (PO) é caracterizado por:
+- Único responsável por administrar o Product Backlog (análisa as ideias para o Backlog), outros até podem ajudar, mas ele é o responsável sempre;
+- Maximizar o valor do produto resultado (faz isso administrando o product backlog);
+- Seus pontos fracos:
+    - Pessoas técnicas e empresariais precisam os dois entender scrum para extrair seus benefícios, caso contrário, faça um treinamento ou trabalhe do modo tradicional. Sem esse entediemento, difícilmente o scrum será aplicado corretamente;
+    - O PO precisa ter conhecimento do trabalho a ser realizado e autoridade, pois sem autoridade, não haverá possibilidade de um bom feedback e organização;
+    - O PO PRECSA estar disponível, para que a equipe possa ser melhor instruída;
+2. Desenvolvedores (Developers) são caracteridados por:
+- Transformar os itens de product backlog em incrementos utilizáveis;
+- Transitam entre função sendo importante ter pessoas que sabem um pouco de tudo e alguns especialistas na equipe;
+- Se gerenciam, sempre escolhendo o que fazer do Porduct Backlog (o PO só detemina o Product Backlog da sprint, os Devs que decidem por si o que fazer);
+- São compostos por 10 ou menos pessoas
