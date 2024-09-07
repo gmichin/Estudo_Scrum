@@ -1,4 +1,4 @@
-[Learning+how+to+learn.pdf](https://github.com/user-attachments/files/16900095/Learning%2Bhow%2Bto%2Blearn.pdf)# Estudos de Scrum
+# Estudos de Scrum
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Estudos do curso Complete Agile Scrum Master Certification Training da Omni Academy
 ### O que é Scrum e para que serve?
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Scrum é um mecanismo que otimiza o valor do sistema de entrega, muito usado para impulsionar o trabalho e esforço que fazemos para entregar sistemas complexos(Complex Enviroments) de valor. Complexidade pode ser definido por 2 dimensões: "O que precisa ser feito?" e "Como fazer?", como na tabela abaixo:
@@ -109,3 +109,19 @@ Dicas extras:
 [Template+-+Cornell+System.pdf](https://github.com/user-attachments/files/16900088/Template%2B-%2BCornell%2BSystem.pdf)
 [Learning+how+to+learn.pdf](https://github.com/user-attachments/files/16900096/Learning%2Bhow%2Bto%2Blearn.pdf)
 
+### Como Scrum transforma ideias em valor?
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Geralmente, um projeto sem Scrum é composto da seguinte maneira:
+
+<img src="https://github.com/user-attachments/assets/16d2ebfe-0c3e-40c9-9336-59de899ad9d1">
+
+Aqui podemos perceber que ideias geralmente são inseridas no Product Backlog (Backlog do produto), então no modelo, iremos substituir "ideas" por "product backlog", e também, geralmente o PO (Product Owner) está responsável pelo gerenciamento dessas ideias, fazendo uma ligação no modelo de PO com Product Backlog:
+
+<img src="https://github.com/user-attachments/assets/8873f70e-abbf-4f93-8e0d-74b0cea4f164">
+
+Podemos reparar que o trabalho em si seria a Sprint, substituindo "work" por "sprint":
+
+<img src="https://github.com/user-attachments/assets/c768c188-7f8a-4f0f-ac69-d5db6e45d447">
+
+Contudo, é necessário fazer o planejamento dessa sprint feito a partir do product Backlog, assim realizaremos a sprint. Durante a sprint faremos um daily scrum para ajustes diarios. Uma dsa ultimas tarefas é o sprint review e retrospective. E no fim, podemos conectar tudo com uma proxima sprint:
+
+<img src="https://github.com/user-attachments/assets/486db286-6ae5-45a4-ae90-ed6c0f8b5903">
