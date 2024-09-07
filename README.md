@@ -122,6 +122,29 @@ Podemos reparar que o trabalho em si seria a Sprint, substituindo "work" por "sp
 
 <img src="https://github.com/user-attachments/assets/c768c188-7f8a-4f0f-ac69-d5db6e45d447">
 
-Contudo, é necessário fazer o planejamento dessa sprint feito a partir do product Backlog, assim realizaremos a sprint. Durante a sprint faremos um daily scrum para ajustes diarios. Uma dsa ultimas tarefas é o sprint review e retrospective. E no fim, podemos conectar tudo com uma proxima sprint:
+Contudo, é necessário fazer o planejamento dessa sprint feito a partir do product Backlog, assim realizaremos a sprint. Durante a sprint faremos um daily scrum para ajustes diarios. Uma das ultimas tarefas é o sprint review. E no fim, podemos conectar tudo com uma proxima sprint:
 
 <img src="https://github.com/user-attachments/assets/486db286-6ae5-45a4-ae90-ed6c0f8b5903">
+
+Assim, precisamos adicionar o incremento, aqui nesse caso, ele é uma entrega vertical. Mas o que é entrega vertical? Podemos ver na imagem abaixo que o quadro "Mona Lisa"pode ser feito de duas formas, a de cima, é a entrega horizontal onde o quadro é feito aos poucos, ja na parte de baixo é o incremento, a entrega vertical, onde é adicionado peças prontas até formar o quadro final.
+
+<img src="https://github.com/user-attachments/assets/f04ce241-d2f2-4fbd-ba3e-91031c70e2ee">
+
+Assim, podemos adicionar o incremento, após a sprint com o product backlog, pois ele necessita dos dois passos. Assim, podemos fazer um review depois (explicados anteriormente):
+
+<img src="https://github.com/user-attachments/assets/b823dcc5-eaae-4eb2-adb6-a6c807d457cf">
+
+E quem participa da Sprint e realiza o incremento? Os Devs, e com eles faremos a sprint retrospective:
+
+<img src="https://github.com/user-attachments/assets/daec3215-58c2-438d-ac81-54c1362cc144">
+
+Mais a frente será falado mais sobre o Scrum Master, mas ele não se enquadraria exatamente dentro desse modelo, ele estaria de fora facilitando todo processo:
+
+<img src="https://github.com/user-attachments/assets/ceaf688b-de5e-415f-ad4d-f316a5f140a2">
+
+E por fim, é importante entender a definição de pronto. A realidade é que esse conceito varia de acordo com o time, mas sempre será o bom ponto de equilibrio entre rápido e com qualidade.
+
+
+
+
+
