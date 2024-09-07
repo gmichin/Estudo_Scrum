@@ -144,7 +144,16 @@ Mais a frente será falado mais sobre o Scrum Master, mas ele não se enquadrari
 
 E por fim, é importante entender a definição de pronto. A realidade é que esse conceito varia de acordo com o time, mas sempre será o bom ponto de equilibrio entre rápido e com qualidade.
 
-
-
+### Scrum Theory & Values
+Scrum é uma estrutura baseada em um empírico processo de controle teórico ou empirismo. Isso significa que seu processos/conhecimentos são baseados na experimentação, tendo como pilares 3 características:
+- Tranparência: sem transparência, pode haver trocas de informações que geram um resultado longe do objetivo;
+- Inspeção: para detecção de problemas ou o que está correto;
+- Adaptação: para sempre trazer o melhor resultado, evoluindo;
+Contudo, esses pilares só ganham vida com 5 valores:
+- Compromisso;
+- Coragem;
+- Foco;
+- Respeito;
+- Abertura;
 
 
