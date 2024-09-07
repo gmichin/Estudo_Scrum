@@ -126,7 +126,7 @@ Contudo, é necessário fazer o planejamento dessa sprint feito a partir do prod
 
 <img src="https://github.com/user-attachments/assets/486db286-6ae5-45a4-ae90-ed6c0f8b5903">
 
-Assim, precisamos adicionar o incremento, aqui nesse caso, ele é uma entrega vertical. Mas o que é entrega vertical? Podemos ver na imagem abaixo que o quadro "Mona Lisa"pode ser feito de duas formas, a de cima, é a entrega horizontal onde o quadro é feito aos poucos, ja na parte de baixo é o incremento, a entrega vertical, onde é adicionado peças prontas até formar o quadro final.
+Assim, precisamos adicionar o incremento, aqui nesse caso, ele é uma entrega vertical. Mas o que é entrega vertical? Podemos ver na imagem abaixo que o quadro "Mona Lisa"pode ser feito de duas formas, a de cima, é a entrega horizontal onde o quadro é feito aos poucos, ja na parte de baixo é o incremento, a entrega vertical, onde é adicionado peças prontas até formar o quadro final. Se reparar bem, de certo forma essas pequenas parte da entrega vertical, são "mini" entregas horizontais.
 
 <img src="https://github.com/user-attachments/assets/f04ce241-d2f2-4fbd-ba3e-91031c70e2ee">
 
