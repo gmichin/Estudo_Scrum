@@ -184,4 +184,9 @@ Quem deveria lidar com o desenvolvedor hostil, na realidade, são os próprios d
 #### Scrum Master VS gestão tradicional
 [PDF com artigo](https://github.com/user-attachments/files/16923165/Gunther%2B-%2BScrum%2BMaster%2B.%2BA%2BManager%2B.%2BUllizee-Inc.pdf)
 
+### Scrum Artifacts (Artefatos do Scrum)
+
+<img src="https://github.com/user-attachments/assets/cade265d-ef49-4d6d-a375-f6263544f338">
+
+#### Product Backlog
 
