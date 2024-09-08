@@ -157,7 +157,7 @@ Contudo, esses pilares só ganham vida com 5 valores:
 - Abertura;
 
 ### Scrum Team
-1. O Product Owner (PO) é caracterizado por:
+1. Product Owner (PO) é caracterizado por:
 - Único responsável por administrar o Product Backlog (análisa as ideias para o Backlog), outros até podem ajudar, mas ele é o responsável sempre;
 - Maximizar o valor do produto resultado (faz isso administrando o product backlog);
 - Seus pontos fracos:
@@ -168,4 +168,20 @@ Contudo, esses pilares só ganham vida com 5 valores:
 - Transformar os itens de product backlog em incrementos utilizáveis;
 - Transitam entre função sendo importante ter pessoas que sabem um pouco de tudo e alguns especialistas na equipe;
 - Se gerenciam, sempre escolhendo o que fazer do Porduct Backlog (o PO só detemina o Product Backlog da sprint, os Devs que decidem por si o que fazer);
-- São compostos por 10 ou menos pessoas
+- São compostos por 10 ou menos pessoas;
+3. Scrum Master é caracterizado por:
+- É responsável por promover e trazer suporte no processo Scrum (equilibrio entre trazer esse suporte e tornar o time independente);
+- Responsável pela comunicação entre o Scrum Team e a organização;
+- Remove de impedimentos (não diretamente, ele remove ajudando e ensinando o time a tirar o impedimento);
+- Lidera e facilita a adoção do Scrum: um "Scrum Master com certificado level 1 deve ser capaz de, ao menos, garantir que a organização (incluindo o Scrum Team) siga as regras do Scrum ensinando e treinando;
+
+#### Dúvidas comuns
+<img src="https://github.com/user-attachments/assets/ce0c3177-eef7-46e7-a4ae-1f9af83c8e5f">
+O trabalho não feito não pode ser colocado no incremento nem no sprint review, na realidade, ele volta para o Product Backlog, pois isso geraria problemas de comunicação. Uma possibilidade é acharem que trabalho não feito foi feito enviando o trabalho incacabado ao cliente.
+<img src="https://github.com/user-attachments/assets/456dd48d-6fa9-4ba5-b815-4e9e34ed38d3">
+Quem deveria lidar com o desenvolvedor hostil, na realidade, são os próprios desenvolvedores. Muitos podem achar que seria o Scrum Master pois sua função é remover impedimentos, mas não de forma direta, ele ensina e da suporte ao time para remover tais impedimentos, ou seja, nesse caso, o time iria lidar com o desenvolvedor hostil e o Scrum Master iria dar suporte e orientação.
+
+#### Scrum Master VS gestão tradicional
+[PDF com artigo](https://github.com/user-attachments/files/16923165/Gunther%2B-%2BScrum%2BMaster%2B.%2BA%2BManager%2B.%2BUllizee-Inc.pdf)
+
+
