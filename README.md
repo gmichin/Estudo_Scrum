@@ -142,7 +142,7 @@ Dicas extras:
 
 <img src="https://github.com/user-attachments/assets/ceaf688b-de5e-415f-ad4d-f316a5f140a2">
 
-E por fim, é importante entender a definição de pronto. A realidade é que esse conceito varia de acordo com o time, mas sempre será o bom ponto de equilibrio entre rápido e com qualidade.
+E por fim, é importante entender a definição de pronto (ver tópico mais a frente). A realidade é que esse conceito varia de acordo com o time, mas sempre será o bom ponto de equilibrio entre rápido e com qualidade.
 
 ### Scrum Theory & Values
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Scrum é uma estrutura baseada em um empírico processo de controle teórico ou empirismo. Isso significa que seu processos/conhecimentos são baseados na experimentação, tendo como pilares 3 características:
@@ -184,11 +184,11 @@ Contudo, esses pilares só ganham vida com 5 valores:
 #### Scrum Master VS gestão tradicional
 [PDF com artigo](https://github.com/user-attachments/files/16923165/Gunther%2B-%2BScrum%2BMaster%2B.%2BA%2BManager%2B.%2BUllizee-Inc.pdf)
 
-### Scrum Artifacts (Artefatos do Scrum)
+## Scrum Artifacts (Artefatos do Scrum)
 
 <img src="https://github.com/user-attachments/assets/cade265d-ef49-4d6d-a375-f6263544f338">
 
-#### Product Backlog
+## Product Backlog
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Product Goal (Produto Objetivo) é um produto que miramos chegar de acordo com o que o cliente deseja. O que é um produto? É um veiculo para entregar valor, podendo ser um serviço, produto físico ou algo mais abstrato. É comum que exitam vários produto objetivo, onde geralmente é atribuído um deles a uma sprint. Quem o desenvolve e explicita para o resto da equipe de modo transparente (pilar do scrum) é o PO.
 
@@ -220,3 +220,5 @@ Como podemos ver o Mandatory (obrigatório) vai causar um terrível impacto se n
 Com esse tipo de pergunta, podemos fazer a seguinte relação:
 
 <img src="https://github.com/user-attachments/assets/10c93b8e-a522-4744-b017-f9c0d5632674">
+
+E se um produto backlog é emergente (refinado continuamente) significa, nesse contexto, que ele é quebrado e definido em pedaços menores, é o que permite preparar o product backlog e o time decide como e quando o refinamento está bom.
