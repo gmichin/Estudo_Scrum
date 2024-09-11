@@ -201,24 +201,37 @@ Contudo, esses pilares só ganham vida com 5 valores:
 
 <img src="https://github.com/user-attachments/assets/0e2f9c5a-6f32-480e-b507-2589ee255e4b">
 
-Mas e como estimamos o tamanho de um produto objetivo? Abaixo, existe um gráfico para ajudar a entender o equilibrio entre esforço e precisão que precisamos atingir
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mas e como estimamos o tamanho de um produto objetivo? Abaixo, existe um gráfico para ajudar a entender o equilibrio entre esforço e precisão que precisamos atingir
 
 <img src="https://github.com/user-attachments/assets/63b52516-7864-4b82-8458-03cf82c24bf2">
 
-Podemos utilizar o que chamamos de Story Point que são medidas que usaremos para falar de tamanho do projeto, abaixo teremos as medidas padrões que se usa no scrum e uma relação com tamanhos
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Podemos utilizar o que chamamos de Story Point que são medidas que usaremos para falar de tamanho do projeto, abaixo teremos as medidas padrões que se usa no scrum e uma relação com tamanhos
 
 <img src="https://github.com/user-attachments/assets/de7da9dc-2469-4c7b-96d1-e5b5288e68da">
 
-Podemos fazer o que chamamos de planning poker, onde atribuimos uma carta que teria uma numeração do Story Point a cada time para então ele realizar sua tarefa com tal tamanho. Contudo, isso não mede a produtividade do time. OK, medimos o tamanho, mas como podemos medir seu valor? Uma das técnicas é o Kano Model, abaixo um gráfico mostrando a priorização desejável: 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Podemos fazer o que chamamos de planning poker, onde atribuimos uma carta que teria uma numeração do Story Point a cada time para então ele realizar sua tarefa com tal tamanho. Contudo, isso não mede a produtividade do time. OK, medimos o tamanho, mas como podemos medir seu valor? Uma das técnicas é o Kano Model, abaixo um gráfico mostrando a priorização desejável: 
 
 <img src="https://github.com/user-attachments/assets/ff9c99ca-6741-49f2-a23b-1f0d54b8a2c0">
 
-Como podemos ver o Mandatory (obrigatório) vai causar um terrível impacto se não estiver no projeto, logo, a prioridade é acima do linear e Exciter. Exciter é o adicional que surpreenderia o cliente, coisa que pode ser feito depois dos itens obrigatórios. E podemos saber se algum item do backlog é linear, mandatory ou exciter, fazendo tais perguntas:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Como podemos ver o Mandatory (obrigatório) vai causar um terrível impacto se não estiver no projeto, logo, a prioridade é acima do linear e Exciter. Exciter é o adicional que surpreenderia o cliente, coisa que pode ser feito depois dos itens obrigatórios. E podemos saber se algum item do backlog é linear, mandatory ou exciter, fazendo tais perguntas:
 
 <img src="https://github.com/user-attachments/assets/82401f54-6e07-4d95-93c2-3bcca0e9e667">
 
-Com esse tipo de pergunta, podemos fazer a seguinte relação:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Com esse tipo de pergunta, podemos fazer a seguinte relação:
 
 <img src="https://github.com/user-attachments/assets/10c93b8e-a522-4744-b017-f9c0d5632674">
 
-E se um produto backlog é emergente (refinado continuamente) significa, nesse contexto, que ele é quebrado e definido em pedaços menores, é o que permite preparar o product backlog e o time decide como e quando o refinamento está bom.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E se um produto backlog é emergente (refinado continuamente) significa, nesse contexto, que ele é quebrado e definido em pedaços menores, é o que permite preparar o product backlog e o time decide como e quando o refinamento está bom.
+
+### The definition of Ready (A definição de pronto)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sua definição é variada de acordo com o que o time quer e precisa, contudo, por padrão ele term as seguintes características:
+- Definição de critério aceitada;
+- Time entende o que precisa ser feito;
+- Cabe na sprint;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Abaixo temos 3 tipos de gráficos para monitoramento de progresso:
+<img src="https://github.com/user-attachments/assets/6be9ab1d-e8ef-494c-a990-8c78c5343aa7">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mo Burn-Down, é visto apenas a quantidade de itens (onde cada um tem uma pontuação que soma no eixo Y) que existem no backlog, logo, não necessáriamente, ele manter uma linha horizontal ou subir significaria que a equipe teve um regresso, talvez, apenas tenha sido adicionado mais itens. É interessante observar que exite uma outra linha completamente reta e constante, ela seria uma medida para se ter noção se a equipe está no prazo, mas existem outros fatores que fazer muitas equipe não o utilizarem.
+<img src="https://github.com/user-attachments/assets/cd7e1989-72ac-4901-9ba4-e967ceeac0bb">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Já o Burn-Up é o inverso do Burn-Down, onde a linha de progresso tende a subir. Nele existe a linha vermelha que representa a quantidade de trabalho a ser feito, enquanto a linha azul a quantidade de itens feitos, o objetivo é a linha azul se aproximar e talvez chegar na linha vermelha.
+<img src="https://github.com/user-attachments/assets/46b6674c-cbc5-46f1-986a-da18d2b86d57">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No cumulative flow, temos 3 áreas, a vermelha representa o trabalho não feito, a amarela o trabalho que está em pogresso e o azul o trabalho pronto, assim, podemos ter uma noção diferente dos outros dois gráficos com o fator "Em progresso" adicionado.
