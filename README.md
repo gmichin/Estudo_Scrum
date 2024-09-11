@@ -209,3 +209,4 @@ Podemos utilizar o que chamamos de Story Point que são medidas que usaremos par
 
 <img src="https://github.com/user-attachments/assets/de7da9dc-2469-4c7b-96d1-e5b5288e68da">
 
+Podemos fazer o que chamamos de planning poker, onde atribuimos uma carta que teria uma numeração do Story Point a cada time para então ele realizar sua tarefa com tal tamanho. Contudo, isso não mede a produtividade do time.
