@@ -192,7 +192,7 @@ Contudo, esses pilares só ganham vida com 5 valores:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Product Goal (Produto Objetivo) é um produto que miramos chegar de acordo com o que o cliente deseja. O que é um produto? É um veiculo para entregar valor, podendo ser um serviço, produto físico ou algo mais abstrato. É comum que exitam vários produto objetivo, onde geralmente é atribuído um deles a uma sprint. Quem o desenvolve e explicita para o resto da equipe de modo transparente (pilar do scrum) é o PO.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sendo assim, Product Backlog é uma lista ordenada do que precisa para melhorar o produto (no caso, produto objetivo). Aqui geralmente ajuda muito definir o User Story pois com ele conseguimos mais clareza no que precisa ser feito, ver quadros abaixos paara entendimento:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sendo assim, Product Backlog é uma lista ordenada e emergente (é continuamente refinado durante o desenvolvimento) do que precisa para melhorar o produto (no caso, produto objetivo). Aqui geralmente ajuda muito definir o User Story pois com ele conseguimos mais clareza no que precisa ser feito, ver quadros abaixos paara entendimento:
 
 <img src="https://github.com/user-attachments/assets/6eda7ccc-dba6-473d-b8dc-d6b693400216">
 <img src="https://github.com/user-attachments/assets/087a5397-628b-48bd-905a-bc0ed04ac3df">
