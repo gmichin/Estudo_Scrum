@@ -79,7 +79,7 @@ Principles (princípios):
 
 Practices (Prática):
 - Prática de modo literal que incluí Scrum (lembrar do mapa mostrando a implementação de scrum como framework);
-- 
+
 ### Cone da incerteza
 <img src="https://github.com/user-attachments/assets/83664ee6-94b4-4a00-9cc4-323442f571ae">
 Linha de cima: 
@@ -114,38 +114,38 @@ Dicas extras:
 
 <img src="https://github.com/user-attachments/assets/16d2ebfe-0c3e-40c9-9336-59de899ad9d1">
 
-Aqui podemos perceber que ideias geralmente são inseridas no Product Backlog (Backlog do produto), então no modelo, iremos substituir "ideas" por "product backlog", e também, geralmente o PO (Product Owner) está responsável pelo gerenciamento dessas ideias, fazendo uma ligação no modelo de PO com Product Backlog:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aqui podemos perceber que ideias geralmente são inseridas no Product Backlog (Backlog do produto), então no modelo, iremos substituir "ideas" por "product backlog", e também, geralmente o PO (Product Owner) está responsável pelo gerenciamento dessas ideias, fazendo uma ligação no modelo de PO com Product Backlog:
 
 <img src="https://github.com/user-attachments/assets/8873f70e-abbf-4f93-8e0d-74b0cea4f164">
 
-Podemos reparar que o trabalho em si seria a Sprint, substituindo "work" por "sprint":
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Podemos reparar que o trabalho em si seria a Sprint, substituindo "work" por "sprint":
 
 <img src="https://github.com/user-attachments/assets/c768c188-7f8a-4f0f-ac69-d5db6e45d447">
 
-Contudo, é necessário fazer o planejamento dessa sprint feito a partir do product Backlog, assim realizaremos a sprint. Durante a sprint faremos um daily scrum para ajustes diarios. Uma das ultimas tarefas é o sprint review. E no fim, podemos conectar tudo com uma proxima sprint:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Contudo, é necessário fazer o planejamento dessa sprint feito a partir do product Backlog, assim realizaremos a sprint. Durante a sprint faremos um daily scrum para ajustes diarios. Uma das ultimas tarefas é o sprint review. E no fim, podemos conectar tudo com uma proxima sprint:
 
 <img src="https://github.com/user-attachments/assets/486db286-6ae5-45a4-ae90-ed6c0f8b5903">
 
-Assim, precisamos adicionar o incremento, aqui nesse caso, ele é uma entrega vertical. Mas o que é entrega vertical? Podemos ver na imagem abaixo que o quadro "Mona Lisa"pode ser feito de duas formas, a de cima, é a entrega horizontal onde o quadro é feito aos poucos, ja na parte de baixo é o incremento, a entrega vertical, onde é adicionado peças prontas até formar o quadro final. Se reparar bem, de certo forma essas pequenas parte da entrega vertical, são "mini" entregas horizontais.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assim, precisamos adicionar o incremento, aqui nesse caso, ele é uma entrega vertical. Mas o que é entrega vertical? Podemos ver na imagem abaixo que o quadro "Mona Lisa"pode ser feito de duas formas, a de cima, é a entrega horizontal onde o quadro é feito aos poucos, ja na parte de baixo é o incremento, a entrega vertical, onde é adicionado peças prontas até formar o quadro final. Se reparar bem, de certo forma essas pequenas parte da entrega vertical, são "mini" entregas horizontais.
 
 <img src="https://github.com/user-attachments/assets/f04ce241-d2f2-4fbd-ba3e-91031c70e2ee">
 
-Assim, podemos adicionar o incremento, após a sprint com o product backlog, pois ele necessita dos dois passos. Assim, podemos fazer um review depois (explicados anteriormente):
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assim, podemos adicionar o incremento, após a sprint com o product backlog, pois ele necessita dos dois passos. Assim, podemos fazer um review depois (explicados anteriormente):
 
 <img src="https://github.com/user-attachments/assets/b823dcc5-eaae-4eb2-adb6-a6c807d457cf">
 
-E quem participa da Sprint e realiza o incremento? Os Devs, e com eles faremos a sprint retrospective:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E quem participa da Sprint e realiza o incremento? Os Devs, e com eles faremos a sprint retrospective:
 
 <img src="https://github.com/user-attachments/assets/daec3215-58c2-438d-ac81-54c1362cc144">
 
-Mais a frente será falado mais sobre o Scrum Master, mas ele não se enquadraria exatamente dentro desse modelo, ele estaria de fora facilitando todo processo:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mais a frente será falado mais sobre o Scrum Master, mas ele não se enquadraria exatamente dentro desse modelo, ele estaria de fora facilitando todo processo:
 
 <img src="https://github.com/user-attachments/assets/ceaf688b-de5e-415f-ad4d-f316a5f140a2">
 
 E por fim, é importante entender a definição de pronto. A realidade é que esse conceito varia de acordo com o time, mas sempre será o bom ponto de equilibrio entre rápido e com qualidade.
 
 ### Scrum Theory & Values
-Scrum é uma estrutura baseada em um empírico processo de controle teórico ou empirismo. Isso significa que seu processos/conhecimentos são baseados na experimentação, tendo como pilares 3 características:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Scrum é uma estrutura baseada em um empírico processo de controle teórico ou empirismo. Isso significa que seu processos/conhecimentos são baseados na experimentação, tendo como pilares 3 características:
 - Tranparência: sem transparência, pode haver trocas de informações que geram um resultado longe do objetivo;
 - Inspeção: para detecção de problemas ou o que está correto;
 - Adaptação: para sempre trazer o melhor resultado, evoluindo;
@@ -177,9 +177,9 @@ Contudo, esses pilares só ganham vida com 5 valores:
 
 #### Dúvidas comuns
 <img src="https://github.com/user-attachments/assets/ce0c3177-eef7-46e7-a4ae-1f9af83c8e5f">
-O trabalho não feito não pode ser colocado no incremento nem no sprint review, na realidade, ele volta para o Product Backlog, pois isso geraria problemas de comunicação. Uma possibilidade é acharem que trabalho não feito foi feito enviando o trabalho incacabado ao cliente.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O trabalho não feito não pode ser colocado no incremento nem no sprint review, na realidade, ele volta para o Product Backlog, pois isso geraria problemas de comunicação. Uma possibilidade é acharem que trabalho não feito foi feito enviando o trabalho incacabado ao cliente.
 <img src="https://github.com/user-attachments/assets/456dd48d-6fa9-4ba5-b815-4e9e34ed38d3">
-Quem deveria lidar com o desenvolvedor hostil, na realidade, são os próprios desenvolvedores. Muitos podem achar que seria o Scrum Master pois sua função é remover impedimentos, mas não de forma direta, ele ensina e da suporte ao time para remover tais impedimentos, ou seja, nesse caso, o time iria lidar com o desenvolvedor hostil e o Scrum Master iria dar suporte e orientação.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Quem deveria lidar com o desenvolvedor hostil, na realidade, são os próprios desenvolvedores. Muitos podem achar que serioba o Scrum Master pois sua função é remover impedimentos, mas não de forma direta, ele ensina e da suporte ao time para remover tais impedimentos, ou seja, nesse caso, o time iria lidar com o desenvolvedor hostil e o Scrum Master iria dar suporte e orientação.
 
 #### Scrum Master VS gestão tradicional
 [PDF com artigo](https://github.com/user-attachments/files/16923165/Gunther%2B-%2BScrum%2BMaster%2B.%2BA%2BManager%2B.%2BUllizee-Inc.pdf)
@@ -189,4 +189,23 @@ Quem deveria lidar com o desenvolvedor hostil, na realidade, são os próprios d
 <img src="https://github.com/user-attachments/assets/cade265d-ef49-4d6d-a375-f6263544f338">
 
 #### Product Backlog
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Product Goal (Produto Objetivo) é um produto que miramos chegar de acordo com o que o cliente deseja. O que é um produto? É um veiculo para entregar valor, podendo ser um serviço, produto físico ou algo mais abstrato. É comum que exitam vários produto objetivo, onde geralmente é atribuído um deles a uma sprint. Quem o desenvolve e explicita para o resto da equipe de modo transparente (pilar do scrum) é o PO.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sendo assim, Product Backlog é uma lista ordenada do que precisa para melhorar o produto (no caso, produto objetivo). Aqui geralmente ajuda muito definir o User Story pois com ele conseguimos mais clareza no que precisa ser feito, ver quadros abaixos paara entedimento:
+
+<img src="https://github.com/user-attachments/assets/6eda7ccc-dba6-473d-b8dc-d6b693400216">
+<img src="https://github.com/user-attachments/assets/087a5397-628b-48bd-905a-bc0ed04ac3df">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assim, o PO ordena o que ele considera apropriado, por exemplo, na tabela abaixo, podemos ver sendo considerados os fatores tamanho (SIZE), risco, valor (BV - Business Value) e dependências. Primeiro ele pontua o tamanho e o valor fazendo uma divisão entre os dois dando os valores da coluna ROI, assim determinariamos uma ordem diferente, contudo, não podemos colocar a frente do projeto algo dependente de outra coisa, então mudamos a ordem de acordo. E por final, mudaremos a ordem também considerando quanto risco aquilo traz.
+
+<img src="https://github.com/user-attachments/assets/0e2f9c5a-6f32-480e-b507-2589ee255e4b">
+
+Mas e como estimamos o tamanho de um produto objetivo? Abaixo, existe um gráfico para ajudar a entender o equilibrio entre esforço e precisão que precisamos atingir
+
+<img src="https://github.com/user-attachments/assets/63b52516-7864-4b82-8458-03cf82c24bf2">
+
+Podemos utilizar o que chamamos de Story Point que são medidas que usaremos para falar de tamanho do projeto, abaixo teremos as medidas padrões que se usa no scrum e uma relação com tamanhos
+
+<img src="https://github.com/user-attachments/assets/de7da9dc-2469-4c7b-96d1-e5b5288e68da">
 
