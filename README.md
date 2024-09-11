@@ -209,4 +209,14 @@ Podemos utilizar o que chamamos de Story Point que são medidas que usaremos par
 
 <img src="https://github.com/user-attachments/assets/de7da9dc-2469-4c7b-96d1-e5b5288e68da">
 
-Podemos fazer o que chamamos de planning poker, onde atribuimos uma carta que teria uma numeração do Story Point a cada time para então ele realizar sua tarefa com tal tamanho. Contudo, isso não mede a produtividade do time.
+Podemos fazer o que chamamos de planning poker, onde atribuimos uma carta que teria uma numeração do Story Point a cada time para então ele realizar sua tarefa com tal tamanho. Contudo, isso não mede a produtividade do time. OK, medimos o tamanho, mas como podemos medir seu valor? Uma das técnicas é o Kano Model, abaixo um gráfico mostrando a priorização desejável: 
+
+<img src="https://github.com/user-attachments/assets/ff9c99ca-6741-49f2-a23b-1f0d54b8a2c0">
+
+Como podemos ver o Mandatory (obrigatório) vai causar um terrível impacto se não estiver no projeto, logo, a prioridade é acima do linear e Exciter. Exciter é o adicional que surpreenderia o cliente, coisa que pode ser feito depois dos itens obrigatórios. E podemos saber se algum item do backlog é linear, mandatory ou exciter, fazendo tais perguntas:
+
+<img src="https://github.com/user-attachments/assets/82401f54-6e07-4d95-93c2-3bcca0e9e667">
+
+Com esse tipo de pergunta, podemos fazer a seguinte relação:
+
+<img src="https://github.com/user-attachments/assets/10c93b8e-a522-4744-b017-f9c0d5632674">
