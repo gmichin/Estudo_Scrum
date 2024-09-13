@@ -188,7 +188,7 @@ Contudo, esses pilares só ganham vida com 5 valores:
 
 <img src="https://github.com/user-attachments/assets/cade265d-ef49-4d6d-a375-f6263544f338">
 
-## Product Backlog
+### Product Backlog
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Product Goal (Produto Objetivo) é um produto que miramos chegar de acordo com o que o cliente deseja. O que é um produto? É um veiculo para entregar valor, podendo ser um serviço, produto físico ou algo mais abstrato. É comum que exitam vários produto objetivo, onde geralmente é atribuído um deles a uma sprint. Quem o desenvolve e explicita para o resto da equipe de modo transparente (pilar do scrum) é o PO.
 
@@ -223,7 +223,7 @@ Contudo, esses pilares só ganham vida com 5 valores:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E se um produto backlog é emergente (refinado continuamente) significa, nesse contexto, que ele é quebrado e definido em pedaços menores, é o que permite preparar o product backlog e o time decide como e quando o refinamento está bom.
 
-### The definition of Done (A definição de pronto) -> Increment
+### Increment -> The definition of Done (A definição de pronto)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sua definição é variada de acordo com o que o time quer e precisa, contudo, por padrão ele term as seguintes características:
 - Definição de critério aceitada;
 - Time entende o que precisa ser feito;
@@ -237,3 +237,8 @@ Contudo, esses pilares só ganham vida com 5 valores:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No cumulative flow, temos 3 áreas, a vermelha representa o trabalho não feito, a amarela o trabalho que está em pogresso e o azul o trabalho pronto, assim, podemos ter uma noção diferente dos outros dois gráficos com o fator "Em progresso" adicionado.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Quem define a definição de pronto? A organização, mas na falta de uma definição da organização a Scrum Team precisa decidir o que melhor se encaixa no projeto. Se um produto do backlog se encaixa na definição de pronto, então ele vai para o incremento, caso contrário, ele volta para o product backlog.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Uma última coisa importante ase citar é sobre Technical Debts (Débitos Técnicos}, onde é uma consequência de práticas de desenvolvimento limitadas podendo causar a decadência do código e deterioração da arquitetura, mas apesar disso, o Scrum consegue gerenciar isso e não é necessáriamente ruim.
+
+### Sprint Backlog
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O sprint backlog é composto pelo sprint goal (por que), o conjunto de itens do product backlog para a sprint (o que), assim como um plano de ação para entregar o incremento (como). Ele é um plano para e dos desenvolvedores, sendo altamente visível, trabalho em tempo real que desenvolvedores planejam para cumprir durante a sprint para atingir o sprint Goal. Consequentemente, o sprint backlog é atualizado durante a sprint conforme aprendizado. Debe ter detalhes o suficiente para que consigam inspecionar o progresso deles no Daily Scrum. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O sprint goal pe o único objetivo para a sprint. Assim como o sprint goal tem compromisso dos desenvolvedores, provém flexibilidade em termos de exatamente quanto trabalho precisa atinfir. O sprint goal também cria coerência e foco, encorajando o Scrum Team a trabalhar junta ao invés de iniciativas separadas.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O sprint goal é criado durante o evento sprint planning e então adicionado ao sprint backlog. Assim como os desenvolvedores trabalham durante a sprint, eles mantém em mente o sprint goal. Se o trabalho se torna diferente do esperado, eles colabotam com o PO para negovionar o scopo do sprint backlog com a sprint sem afetar o sprint goal.
