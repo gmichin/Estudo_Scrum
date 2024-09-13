@@ -223,7 +223,7 @@ Contudo, esses pilares só ganham vida com 5 valores:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E se um produto backlog é emergente (refinado continuamente) significa, nesse contexto, que ele é quebrado e definido em pedaços menores, é o que permite preparar o product backlog e o time decide como e quando o refinamento está bom.
 
-### The definition of Ready (A definição de pronto)
+### The definition of Done (A definição de pronto) -> Increment
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sua definição é variada de acordo com o que o time quer e precisa, contudo, por padrão ele term as seguintes características:
 - Definição de critério aceitada;
 - Time entende o que precisa ser feito;
@@ -235,3 +235,5 @@ Contudo, esses pilares só ganham vida com 5 valores:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Já o Burn-Up é o inverso do Burn-Down, onde a linha de progresso tende a subir. Nele existe a linha vermelha que representa a quantidade de trabalho a ser feito, enquanto a linha azul a quantidade de itens feitos, o objetivo é a linha azul se aproximar e talvez chegar na linha vermelha.
 <img src="https://github.com/user-attachments/assets/46b6674c-cbc5-46f1-986a-da18d2b86d57">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No cumulative flow, temos 3 áreas, a vermelha representa o trabalho não feito, a amarela o trabalho que está em pogresso e o azul o trabalho pronto, assim, podemos ter uma noção diferente dos outros dois gráficos com o fator "Em progresso" adicionado.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Quem define a definição de pronto? A organização, mas na falta de uma definição da organização a Scrum Team precisa decidir o que melhor se encaixa no projeto. Se um produto do backlog se encaixa na definição de pronto, então ele vai para o incremento, caso contrário, ele volta para o product backlog.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Uma última coisa importante ase citar é sobre Technical Debts (Débitos Técnicos}, onde é uma consequência de práticas de desenvolvimento limitadas podendo causar a decadência do código e deterioração da arquitetura, mas apesar disso, o Scrum consegue gerenciar isso e não é necessáriamente ruim.
