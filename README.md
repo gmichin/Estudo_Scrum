@@ -230,12 +230,19 @@ Contudo, esses pilares só ganham vida com 5 valores:
 - Definição de critério aceitada;
 - Time entende o que precisa ser feito;
 - Cabe na sprint;
+- 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Abaixo temos 3 tipos de gráficos para monitoramento de progresso:
+
 <img src="https://github.com/user-attachments/assets/6be9ab1d-e8ef-494c-a990-8c78c5343aa7">
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mo Burn-Down, é visto apenas a quantidade de itens (onde cada um tem uma pontuação que soma no eixo Y) que existem no backlog, logo, não necessáriamente, ele manter uma linha horizontal ou subir significaria que a equipe teve um regresso, talvez, apenas tenha sido adicionado mais itens. É interessante observar que exite uma outra linha completamente reta e constante, ela seria uma medida para se ter noção se a equipe está no prazo, mas existem outros fatores que fazer muitas equipe não o utilizarem.
+
 <img src="https://github.com/user-attachments/assets/cd7e1989-72ac-4901-9ba4-e967ceeac0bb">
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Já o Burn-Up é o inverso do Burn-Down, onde a linha de progresso tende a subir. Nele existe a linha vermelha que representa a quantidade de trabalho a ser feito, enquanto a linha azul a quantidade de itens feitos, o objetivo é a linha azul se aproximar e talvez chegar na linha vermelha.
+
 <img src="https://github.com/user-attachments/assets/46b6674c-cbc5-46f1-986a-da18d2b86d57">
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No cumulative flow, temos 3 áreas, a vermelha representa o trabalho não feito, a amarela o trabalho que está em pogresso e o azul o trabalho pronto, assim, podemos ter uma noção diferente dos outros dois gráficos com o fator "Em progresso" adicionado.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Quem define a definição de pronto? A organização, mas na falta de  uma definição da organização a Scrum Team precisa decidir o que melhor se encaixa no projeto. Se um produto do backlog se encaixa na definição de pronto, então ele vai para o incremento, caso contrário, ele volta para o product backlog.
