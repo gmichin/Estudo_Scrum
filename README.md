@@ -235,7 +235,7 @@ Contudo, esses pilares só ganham vida com 5 valores:
 
 <img src="https://github.com/user-attachments/assets/6be9ab1d-e8ef-494c-a990-8c78c5343aa7">
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mo Burn-Down, é visto apenas a quantidade de itens (onde cada um tem uma pontuação que soma no eixo Y) que existem no backlog, logo, não necessáriamente, ele manter uma linha horizontal ou subir significaria que a equipe teve um regresso, talvez, apenas tenha sido adicionado mais itens. É interessante observar que exite uma outra linha completamente reta e constante, ela seria uma medida para se ter noção se a equipe está no prazo, mas existem outros fatores que fazer muitas equipe não o utilizarem.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No Burn-Down, é visto apenas a quantidade de itens (onde cada um tem uma pontuação que soma no eixo Y) que existem no backlog, logo, não necessáriamente, ele manter uma linha horizontal ou subir significaria que a equipe teve um regresso, talvez, apenas tenha sido adicionado mais itens. É interessante observar que exite uma outra linha completamente reta e constante, ela seria uma medida para se ter noção se a equipe está no prazo, mas existem outros fatores que fazer muitas equipe não o utilizarem.
 
 <img src="https://github.com/user-attachments/assets/cd7e1989-72ac-4901-9ba4-e967ceeac0bb">
 
