@@ -280,3 +280,8 @@ A sprint pode ser cancelada se o Sprint Goal se torna obsoleto. Apenas o PO tem 
 ### Sprint Retrospective
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O propósito do Sprint Retrospective é para planejar maneiras de aumentar qualidade e eficácia. O Scrum Team inpeciona como foi a última Sprint em relação a indivíduos, interações, processos, ferramentas e sua Definition of Done. Inpeciona elementos frequêntemente variam com o domínio do trabalho. Suposições os desviariam são identificados e suas origens exploradas. O Scrum Team discute o que foi bem durante a Sprint, o problem que encontraram e como esse problemas foram (ou não foram) resolvidos.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O Scrum Team identifica as mudanças que mais ajudaram a melhorar a eficácia. As melhoria de maior impacto são abordadas o quanto antes. Eles podem até mesmo ser adicionados no print Backlog para próxima Sprint. O Sprint retrospective conclui a Sprint. Seu prazo é de três horas para uma sprint de um mês. Para Sprints mesnores, o evento normalmente é menor.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para saber mais sobre a evolução do Scrum Guide:
+- [Changes between 2017 and 2020 Scrum Guides](https://scrumguides.org/revisions.html)
+- [2020 Scrum Guide Changes and Updates Explained](https://www.scruminc.com/2020-scrum-guide-changes-updates-explained/)
+- [Scrum Guide 2020 and 2017: A Side-by-Side Comparison](https://www.scrum.org/resources/blog/scrum-guide-2020-and-2017-side-side-comparison)
