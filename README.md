@@ -39,6 +39,7 @@ Se esta bom, ok. Mas se não está, no scrum, é adicionado as correções no ba
 
 ### Taditional vs Agile
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No modo tradicional é feito um "plano perfeito" com o que será feito, quando e por quanto, e se é seguido tal plano sem muitas adaptações na prática por conta do custo associado e burocrácias (teoricamente sim), aqui, é assumido que a visão inicial está correta, o que geralmente não incluí problemas inesperados, objetivos que se movem ou mesmo erros. Se assumirmos que a visão incial está completamente correta, erraremos o alvo, não chegando na visão correta ou chegando nela muito atrasados de modo que acaba sendo inutil chegar nela, geralmente a visão correta está longe da inicial. 
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assim vem o Agile (Ágil) que assumimos não saber o alvo, onde o objetivos é chegar perto do que o cliente quer em ciclos pequenos dado o que sabemos e aprendemos com experiência. Nele, sempre é feito ajustes causados pelo time aprender mais sobre as tecnologias usadas, mudanças no mercado ou tecnologias disponíveis atualizando as ferramentas usadas, análises finais (do ciclo) dos clientes e, finalmente, IKIWISI (I Know It When I See It), onde em certos tipos de projetos (especialmente os inovadores) é inútil perguntar aos clientes em potenciais se eles vão gostar do produto ou usá-lo (pois o projeto pode ser tão inovador que não vão ter nem ideia do que fazer ou pode ser muito dificil de explicar o produto para eles), sendo assim, só vão saber se o projeto é viável depois de vê-lo.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;É importante não confundir ágil com rápido, porque rápido pode entregar algo mau feito, enquanto nesse ágil em especifico, apenas bem feito; e não necessáriamente é o mais rápido possivel pois de vez em quando é preciso desacelerar para entregar mais qualidade, mas sempre que possível mais rápido.
@@ -47,7 +48,7 @@ Se esta bom, ok. Mas se não está, no scrum, é adicionado as correções no ba
 <img src="https://github.com/user-attachments/assets/89276994-fc2b-41d1-8759-f30bce2813d0">
 
 Mindset (mentalidade):
-&nbsp;- Ver contratempos como oportunidades de aprendizado;
+- Ver contratempos como oportunidades de aprendizado;
 - Adotar colaborações, mundanças e ciclos de entrega pequenas;
 - Foco no valor de entrega;
 
@@ -178,6 +179,7 @@ Contudo, esses pilares só ganham vida com 5 valores:
 #### Dúvidas comuns
 <img src="https://github.com/user-attachments/assets/ce0c3177-eef7-46e7-a4ae-1f9af83c8e5f">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O trabalho não feito não pode ser colocado no incremento nem no sprint review, na realidade, ele volta para o Product Backlog, pois isso geraria problemas de comunicação. Uma possibilidade é acharem que trabalho não feito foi feito enviando o trabalho incacabado ao cliente.
+
 <img src="https://github.com/user-attachments/assets/456dd48d-6fa9-4ba5-b815-4e9e34ed38d3">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Quem deveria lidar com o desenvolvedor hostil, na realidade, são os próprios desenvolvedores. Muitos podem achar que serioba o Scrum Master pois sua função é remover impedimentos, mas não de forma direta, ele ensina e da suporte ao time para remover tais impedimentos, ou seja, nesse caso, o time iria lidar com o desenvolvedor hostil e o Scrum Master iria dar suporte e orientação.
 
@@ -235,7 +237,9 @@ Contudo, esses pilares só ganham vida com 5 valores:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Já o Burn-Up é o inverso do Burn-Down, onde a linha de progresso tende a subir. Nele existe a linha vermelha que representa a quantidade de trabalho a ser feito, enquanto a linha azul a quantidade de itens feitos, o objetivo é a linha azul se aproximar e talvez chegar na linha vermelha.
 <img src="https://github.com/user-attachments/assets/46b6674c-cbc5-46f1-986a-da18d2b86d57">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No cumulative flow, temos 3 áreas, a vermelha representa o trabalho não feito, a amarela o trabalho que está em pogresso e o azul o trabalho pronto, assim, podemos ter uma noção diferente dos outros dois gráficos com o fator "Em progresso" adicionado.
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Quem define a definição de pronto? A organização, mas na falta de  uma definição da organização a Scrum Team precisa decidir o que melhor se encaixa no projeto. Se um produto do backlog se encaixa na definição de pronto, então ele vai para o incremento, caso contrário, ele volta para o product backlog.
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Uma última coisa importante ase citar é sobre Technical Debts (Débitos Técnicos}, onde é uma consequência de práticas de desenvolvimento limitadas podendo causar a decadência do código e deterioração da arquitetura, mas apesar disso, o Scrum consegue gerenciar isso e não é necessáriamente ruim.
 
 ### Sprint Backlog
