@@ -240,15 +240,20 @@ Contudo, esses pilares só ganham vida com 5 valores:
 
 ### Sprint Backlog
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O sprint backlog é composto pelo sprint goal (por que), o conjunto de itens do product backlog para a sprint (o que), assim como um plano de ação para entregar o incremento (como). Ele é um plano para e dos desenvolvedores, sendo altamente visível, trabalho em tempo real que desenvolvedores planejam para cumprir durante a sprint para atingir o sprint Goal. Consequentemente, o sprint backlog é atualizado durante a sprint conforme aprendizado. Debe ter detalhes o suficiente para que consigam inspecionar o progresso deles no Daily Scrum. 
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O sprint goal pe o único objetivo para a sprint. Assim como o sprint goal tem compromisso dos desenvolvedores, provém flexibilidade em termos de exatamente quanto trabalho precisa atinfir. O sprint goal também cria coerência e foco, encorajando o Scrum Team a trabalhar junta ao invés de iniciativas separadas.
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O sprint goal é criado durante o evento sprint planning e então adicionado ao sprint backlog. Assim como os desenvolvedores trabalham durante a sprint, eles mantém em mente o sprint goal. Se o trabalho se torna diferente do esperado, eles colabotam com o PO para negovionar o scopo do sprint backlog com a sprint sem afetar o sprint goal.
 
 
 ## Scrum Events
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Uma sprint é um container para todos os outros eventos do Scrum chamados Sprint Planning, Daily Scrum, Sprint Review e Sprint Retrospective. Eles são a chave para criar regularização e minimizar as necessidades de encontros não definidos no Scrum. No Scrum, todos os eventos possuem um prazo que necessita ser definido pelo Scrum Team antes mesmo do Sprint Planning e não pode ser modificado. Isso significa que a Sprint acaba quando o prazo expira, a única excessão é quando a Sprint é cancelada (aprofundamento a frente), e de resto, a sprint pode acabar antes do prazo expirar se a proposta é atingida. Esses eventos são jeitos formais de inspecionar e adaptar algo.
 ### Sprint Planning
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Esse evento inicia a sprint dispõe o trabalho a ser performado na sprint. Para o PO, os esforços de planejamento começam antes do sprint planning, entrando no evento analisando o que precisa ser feito em seguida e qual o proposito da Sprint, preparando para discussões itens do product backlog  e mapeados para o sprint goal, ou seja, analisar questões como quais pressupostos e ideias precisam ser validadas, quais riscos precisam ser abordados ou quais funcionalidade precisa ser providênciadas ou preenchidas. No scrum, uma sprint é um mini projeto e nele, o sprint planning define o objetivo a ser construido e flexibiliza o plano para alcança-lo. O plano se chama sprint backlog (citado anteriormente).
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Quem participa do sprint planning? O Scrum Team, contudo, o time pode convidar outros para providenciar ajuda, como chamar um especialista num assunto que o time não tem muito domínio.
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Como executamos o sprint planning? Para isso, teremos que pensar em 3 tópicos:
 - Por que a sprint é válida/viável? PO propõe como o produto pode aumentar seu valor e utilidade da sprint atual e todo o Scrum Team colabora para definir o sprint goal;
 - O que pode ser feito na sprint? Durante discussão com o PO, os desenvolvedores selecionam itens do product backlog na sprint atual, e durante a sprint, eles podem refinar o item. Saber da performance passada, atual capacidade e a definição de pronto deles iria ajudar no refinamento;
@@ -264,21 +269,27 @@ Contudo, esses pilares só ganham vida com 5 valores:
 - Qualidade não decai;
 - O Product Backlog é refinado conforme necessidade;
 - O [escopo](https://medium.com/@mirkoperkusich/scrum-myth-the-sprint-scope-is-fixed-a3ce4b262eaa) pode ser esclarecido e renegociado com o Product Owner à medida que mais se aprende.
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sprints habilitam previsbilidade com garantia de inspeção e adaptação durante progressopara o Product Goal em pelo menos todo mês do calendário. Quando o horizonte da Sprint é muito longo o Sprint Goal pode se tornar inválido, complexidade pode surgir, e há aumento de risco. Sprints menores podem  ser empregadas para gerar mais ciclos de aprendizado e limitar o risco de custo e esforço a um período de tempo menor.
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Variadas praticas existem para previsões de progresso, como burn-downs, burn-ups ou cumulative flows. Enquanto provém utilidade, nenhum deles substitui a importancia do empirismo. Em ambientes complexos, o que irá acontecer é incerto. Apenas o que já ocorreu pode ser usado para tomadas de decisões do futuro.
 A sprint pode ser cancelada se o Sprint Goal se torna obsoleto. Apenas o PO tem autoridade de cancelar a Sprint.
 
 ### Daily Scrum
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O propósito do [Daily Scrum](https://medium.com/@mirkoperkusich/a-complete-guide-for-conducting-effective-daily-scrums-a481c853eed0) é inspecionar o progresso com base no Sprint Goal e adaptar o Sprint Backlog conforme necessário, ajustando o plano de trabalho atual. O Daily Scrum é um evento de 15 minutos dos desenvolvedores do Scrum Team. Para reduzir complexidade, ele suporta ao mesmo tempo e lugar tpdp tranalho do dia da Sprint. Se o PO ou o Scrum Master estão ativamente trablhando nos itens do Sprint Backlog, então eles participam como desenvolvedores. Os desenvolvedores podem selecionar qualquer estrutura ou técnica que quiserem, contanto que seu Daily Scrum se foque no progresso tendo em vista o Sprint Goal e produz um plano de ação para o próximo dia de trabalho. Isso cria foco e melhora auto-gerenciamento.
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Daily Scrum melhora comunicação, identifica impedimento, promove tomadas de decisão rápidas e consequentemente elimina a necessidade de outras reunniões. O daily Scrum não é a única vez que desenolvedores podem ajustar seus planos, eles se encontram com frequênia durante o dia para mais discussões detalhadas sobre adaptar e replanejar o resto do trabalho da Sprint.
 
 ### Sprint Review
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O propósito da Sprint Review é inspecionar o que saiu da Sprint e determinar adaptações para o futuro. O Scrum Team apresenta os resultados do trabalho para as principais partes interessadas e o progresso tendo em vista o Product Goal discutido.
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Durante o evento, o Scrum Team e as parte interessadas revisam o que doi cumprido na sprint e o que precisa mudar no seu ambiente. Baseado nessa informação, os participantes colaboram sobre o que fazer a seguir. O Product Backlog pode também ser ajustado para encontrar novas oportunidades. O Sprint Review é uma sessão de trabalho e o Scrum Team precisa limita-lo para apresentação.
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O Sprint Review é o penúltimo evento da Sprint e tem um máximo de quatro horas para um Sprint de um mês. Para Sprints mais curtos, o evento geralmente é mais curto.
 
 ### Sprint Retrospective
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O propósito do Sprint Retrospective é para planejar maneiras de aumentar qualidade e eficácia. O Scrum Team inpeciona como foi a última Sprint em relação a indivíduos, interações, processos, ferramentas e sua Definition of Done. Inpeciona elementos frequêntemente variam com o domínio do trabalho. Suposições os desviariam são identificados e suas origens exploradas. O Scrum Team discute o que foi bem durante a Sprint, o problem que encontraram e como esse problemas foram (ou não foram) resolvidos.
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O Scrum Team identifica as mudanças que mais ajudaram a melhorar a eficácia. As melhoria de maior impacto são abordadas o quanto antes. Eles podem até mesmo ser adicionados no print Backlog para próxima Sprint. O Sprint retrospective conclui a Sprint. Seu prazo é de três horas para uma sprint de um mês. Para Sprints mesnores, o evento normalmente é menor.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para saber mais sobre a evolução do Scrum Guide:
