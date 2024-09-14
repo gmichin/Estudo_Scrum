@@ -252,8 +252,18 @@ Contudo, esses pilares só ganham vida com 5 valores:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Como executamos o sprint planning? Para isso, teremos que pensar em 3 tópicos:
 - Por que a sprint é válida/viável? PO propõe como o produto pode aumentar seu valor e utilidade da sprint atual e todo o Scrum Team colabora para definir o sprint goal;
 - O que pode ser feito na sprint? Durante discussão com o PO, os desenvolvedores selecionam itens do product backlog na sprint atual, e durante a sprint, eles podem refinar o item. Saber da performance passada, atual capacidade e a definição de pronto deles iria ajudar no refinamento;
-- Como o trabalho escolhido é terminado? Os desenvolvedores planejam o trabalho necessário para criar um incremento que atinja a definição de pronto. Issp=o pode ser feito decompondo os itens do product backlog em itens menores que seu trabalho leva dia ou menos;
+- Como o trabalho escolhido é terminado? Os desenvolvedores planejam o trabalho necessário para criar um incremento que atinja a definição de pronto. Isso pode ser feito decompondo os itens do product backlog em itens menores que seu trabalho leva dia ou menos;
 
 <img src="https://github.com/user-attachments/assets/8d304ee8-400f-4d81-95d5-25e3aaee8b6c">
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O sprint planning geralmente tem 8hs de prazo para uma sprint de 1 mês, geralmente, variando o tempo nessa proporção. O Sprint Goal, os itens do product backlog selecionados para sprint, mais o plano para entrega-los juntos são o Sprint Backlog.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O sprint planning geralmente tem 8hs de prazo para uma sprint de 2 semanas, geralmente, variando o tempo nessa proporção. O Sprint Goal, os itens do product backlog selecionados para sprint, mais o plano para entrega-los juntos são o Sprint Backlog.
+
+### A Sprint
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sprints são o coração do scrum, onde ideias se tornam valor. Eles fixam o tamanho dos eventos em 1 mês ou menos para criar consistência, e depois que a sprint acaba, outra começa. Todo trabalho necessário para atingir o product goal, incluindo Sprint Planning, Daily Scrums, Sprint Review e Sprint Retrospective, acontece com as Sprints. Durante uma sprint:
+- Nennhuma mudança é fieto que coloque o Sprint Goal em perigo;
+- Qualidade não decai;
+- O Product Backlog é refinado conforme necessidade;
+- O [escopo](https://medium.com/@mirkoperkusich/scrum-myth-the-sprint-scope-is-fixed-a3ce4b262eaa) pode ser esclarecido e renegociado com o Product Owner à medida que mais se aprende.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sprints habilitam previsbilidade com garantia de inspeção e adaptação durante progressopara o Product Goal em pelo menos todo mês do calendário. Quando o horizonte da Sprint é muito longo o Sprint Goal pode se tornar inválido, complexidade pode surgir, e há aumento de risco. Sprints menores podem  ser empregadas para gerar mais ciclos de aprendizado e limitar o risco de custo e esforço a um período de tempo menor.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Variadas praticas existem para previsões de progresso, como burn-downs, burn-ups ou cumulative flows. Enquanto provém utilidade, nenhum deles substitui a importancia do empirismo. Em ambientes complexos, o que irá acontecer é incerto. Apenas o que já ocorreu pode ser usado para tomadas de decisões do futuro.
+A sprint pode ser cancelada se o Sprint Goal se torna obsoleto. Apenas o PO tem autoridade de cancelar a Sprint.
