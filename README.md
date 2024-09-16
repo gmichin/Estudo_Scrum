@@ -307,3 +307,13 @@ A sprint pode ser cancelada se o Sprint Goal se torna obsoleto. Apenas o PO tem 
 - [Mudanças entre 2017 e 2020 Scrum Guide](https://scrumguides.org/revisions.html)
 - [2020 Scrum Guide mudanças e atualizações explicadas](https://www.scruminc.com/2020-scrum-guide-changes-updates-explained/)
 - [Scrum Guide 2020 e 2017: A comparação lado-a-lado](https://www.scrum.org/resources/blog/scrum-guide-2020-and-2017-side-side-comparison)
+
+## Scaled Scrum
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;É relativamente comum que múltiplos Scrum Teams trabalhem no mesmo Product Backlog, sendo isso um Scaled Scrum, o que não é muito aprofundado no Scrum Guide
+, um local bom para seu aprofundamento é o framework [Nexus Guide](https://www.scrum.org/resources/nexus-guide)/[NexusGuide+2021_0.pdf](https://github.com/user-attachments/files/17016902/NexusGuide%2B2021_0.pdf) dispoível no [scrum.org](https://www.scrum.org/) que é baseado em Scrum e descrito pelo Scrum Guide, mas ele complementa adicionando e modificando eventos, linhas e artefatos para se encaixar melhor no ambiente escalado (scaled). Não é recomendado que estude muito sobre Scaled Scrum para fazer a prova PSM I Assesment pois ele pode te confundir.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ok, sabemos que no Scaled Scrum é sobre vários Scrum Team trabalhando no mesmo produto, mas isso não significa mais de um PO, sendo na realidade, apenas 1 PO para todos os Scrum Teams, podendo ser de 3 a 9 times. Pode ser muito trabalho, mas o Scrum Guide deixa que ele delegue algum trabalho, fazendo ele mesmo escolher quanto tempo passa com cada time. Sendo assim, existe 1 Product Backlog, 1 PO e 1 Product Goal mesmo com múltiplos Scrum Teams. E também, apenas 1 incremento integrado.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O maior problema que pode existir quando se trabalho com múltiplos time são as dependências. Por isso, a time integrado Nexus é responsável por definir a [Definição de Pronto](https://medium.com/@mirkoperkusich/doing-it-right-definition-of-done-in-scaled-scrum-3e67814a99ea), com todos time aderindo a ele, mas não necessárimente todos os times ficam com a exata mesma definição de pronto.
+
+# Dicas para o PSM I Assesment
+- [Tips](https://medium.com/@mirkoperkusich/ace-the-professional-scrum-master-i-certification-with-these-tips-1e9ad998587c)
+- Questões sobre a [simulação PSM I Assesmen]()[Uploading PDF+-+Professional+Scrum+Master+level+I+(PSM+I)+simulator+1,+2+&+3.pdf…]()
