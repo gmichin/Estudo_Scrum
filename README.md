@@ -316,4 +316,5 @@ A sprint pode ser cancelada se o Sprint Goal se torna obsoleto. Apenas o PO tem 
 
 # Dicas para o PSM I Assesment
 - [Tips](https://medium.com/@mirkoperkusich/ace-the-professional-scrum-master-i-certification-with-these-tips-1e9ad998587c)
-- Questões sobre a [simulação PSM I Assesmen]()[Uploading PDF+-+Professional+Scrum+Master+level+I+(PSM+I)+simulator+1,+2+&+3.pdf…]()
+- Questões sobre a [simulação PSM I Assesmen](https://github.com/user-attachments/files/17018068/PDF%2B-%2BProfessional%2BScrum%2BMaster%2Blevel%2BI%2B.PSM%2BI.%2Bsimulator%2B1.%2B2%2B.%2B3.pdf)
+
